@@ -1,0 +1,10 @@
+{
+  "api_base": "https://api.cloudflare.com/client/v4/accounts/86f663b79381317187df1b99613ce695/ai/v1",
+  "api_key": "",
+  "chat_model": "@cf/zai-org/glm-4.7-flash",
+  "vision_model": "@cf/google/gemma-4-26b-a4b-it",
+  "opacity": 0.85,
+  "ball_size": 52,
+  "ball_color": "#333333",
+  "cf_refresh_token": "cfort_pEof04vQ67LnVkEQsUs8OQVA9JKAZR9bNJmclinXEcE.njmNKsf21tt_VOSPECp_Z8J-w03wq0zd6busqx4dnoo"
+}
